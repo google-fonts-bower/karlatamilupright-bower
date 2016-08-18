@@ -1,0 +1,17 @@
+{
+    "name": "karlatamilupright-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Jonathan Pinhorn"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/karlatamilupright-bower.git"
+    },
+    "description": "Karla Tamil Upright font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
